@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "92488be792b197cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffc167d8b511837f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0265330659849096",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rhinelab/可露希尔/comsol仿真/第01章-COMSOL入门总览/04-建模步骤详解/02-绘制或导入CAD几何.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02-绘制或导入CAD几何"
+            }
+          },
+          {
+            "id": "4174f4a0896c5f36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-05-31.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-31"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d953fad03495f1df",
+    "type": "split",
+    "children": [
+      {
+        "id": "67503f9c408c00f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2a9661f8e2a2673",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "2c5e24de794719cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#傅里叶热传导方程",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "695705c13a7395a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4fdc5f2e01867479",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c7787e395310cfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d224cd941f6812a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "未命名 的反向链接列表"
+            }
+          },
+          {
+            "id": "f3b9441f148650f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "未命名 的出链列表"
+            }
+          },
+          {
+            "id": "4200ef2521ac065a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1885426fbbb012eb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "a51467799d8d7d07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "0265330659849096",
+  "lastOpenFiles": [
+    "PRTS_helloworld/日志/2026-05-31 AI版日志.md",
+    "PRTS_helloworld/日志/2026-05-31 人类版日志.md",
+    "PRTS_helloworld/日志",
+    "Rhinelab/可露希尔/comsol仿真/第02章-COMSOL几何建模/06-CAD导入修复与简化/02-忽略边与形成组合面.md",
+    "Rhinelab/可露希尔/comsol仿真/第02章-COMSOL几何建模/案例库/02-笑脸二维布尔案例.md",
+    "Rhinelab/可露希尔/comsol仿真/第02章-COMSOL几何建模/01-章节总览.md",
+    "Rhinelab/可露希尔/comsol仿真/第02章-COMSOL几何建模/02-几何建模核心概念.md",
+    "Rhinelab/可露希尔/comsol仿真/第01章-COMSOL入门总览/03-COMSOL建模流程/步骤卡片/05-网格划分.md",
+    "Rhinelab/可露希尔/comsol仿真/第01章-COMSOL入门总览/03-COMSOL建模流程/步骤卡片/02-绘制或导入CAD几何.md",
+    "PRTS_helloworld/2026-05-28 知识总结.md",
+    "COMSOL/COMSOL 建模工作流.md",
+    "2026-05-31.md",
+    "Rhinelab/缪尔赛斯/目录.md",
+    "Rhinelab/可露希尔/目录.md",
+    "Rhinelab/可露希尔/comsol仿真/第02章-COMSOL几何建模/05-装配体与形成联合体/03-什么时候必须或不能使用装配体.md",
+    "Rhinelab/可露希尔/comsol仿真/第02章-COMSOL几何建模/08-层与PML/02-PML在波动问题中的处理.md",
+    "Rhinelab/可露希尔/comsol仿真/第02章-COMSOL几何建模/08-层与PML/01-层的处理.md",
+    "Rhinelab/可露希尔/comsol仿真/第02章-COMSOL几何建模/07-几何建模建议/01-五大几何建模建议.md",
+    "Rhinelab/可露希尔/comsol仿真/第02章-COMSOL几何建模/03-二维绘图与布尔运算/03-二维绘图操作清单.md",
+    "bili_frames_BV1K44y1v7Vx_p2_30s/contact_9.jpg",
+    "bili_frames_BV1K44y1v7Vx_p2_30s/contact_8.jpg",
+    "bili_frames_BV1K44y1v7Vx_p2_30s/contact_7.jpg",
+    "bili_frames_BV1K44y1v7Vx_p2_30s/contact_6.jpg",
+    "bili_frames_BV1K44y1v7Vx_p2_30s/contact_5.jpg",
+    "bili_frames_BV1K44y1v7Vx_p2_30s/contact_4.jpg",
+    "bili_frames_BV1K44y1v7Vx_p2_30s/contact_3.jpg",
+    "bili_frames_BV1K44y1v7Vx_p2_30s/contact_2.jpg",
+    "bili_frames_BV1K44y1v7Vx_p2_30s/contact_1.jpg",
+    "bili_frames_BV1K44y1v7Vx_p2_30s/frame_073.jpg",
+    "bili_frames_BV1K44y1v7Vx_p2_30s",
+    "BV1K44y1v7Vx_p2_360p.mp4",
+    "Rhinelab/可露希尔/comsol仿真/第02章-COMSOL几何建模/03-二维绘图与布尔运算/04-二维图形绘制操作说明.md",
+    "Rhinelab/可露希尔/comsol仿真/第02章-COMSOL几何建模/03-二维绘图与布尔运算/05-用参数绘制不连续边界.md",
+    "Rhinelab/可露希尔/comsol仿真/第02章-COMSOL几何建模/04-三维几何建模/05-三维转二维与不同三维图形拼接.md",
+    "Rhinelab/可露希尔/comsol仿真/第02章-COMSOL几何建模/06-CAD导入修复与简化/01-CAD导入后的修复和删除.md",
+    "Rhinelab/可露希尔/comsol仿真/第02章-COMSOL几何建模/案例库/04-层与PML操作案例.md",
+    "Rhinelab/可露希尔/comsol仿真/第02章-COMSOL几何建模/案例库/03-不连续边界绘制案例.md",
+    "Rhinelab/可露希尔/comsol仿真/第02章-COMSOL几何建模/08-层与PML",
+    "Rhinelab/可露希尔/comsol仿真/第02章-COMSOL几何建模/04-三维几何建模/04-三维图形绘制操作说明.md",
+    "Rhinelab/可露希尔/comsol仿真/第02章-COMSOL几何建模/05-装配体与形成联合体/01-形成联合体.md",
+    "Rhinelab/可露希尔/comsol仿真/第02章-COMSOL几何建模/案例库",
+    "Rhinelab/可露希尔/comsol仿真/案例库",
+    "Rhinelab/可露希尔/comsol仿真/第02章-COMSOL几何建模/07-几何建模建议",
+    "Rhinelab/可露希尔/comsol仿真/第02章-COMSOL几何建模/06-CAD导入修复与简化",
+    "Rhinelab/可露希尔/comsol仿真/第02章-COMSOL几何建模/05-装配体与形成联合体",
+    "Rhinelab/可露希尔/comsol仿真/第02章-COMSOL几何建模/04-三维几何建模",
+    "未命名 1.canvas",
+    "未命名.canvas"
+  ]
+}

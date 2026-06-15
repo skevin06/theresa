@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "12bb45d655d204e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce83f60d27c55ef5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdf084aff8311460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "codex-bosidian 关联.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "codex-bosidian 关联"
+            }
+          },
+          {
+            "id": "e1a4f6b2036deda3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rhinelab/艾雅法拉/矿物岩石/目录.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "目录"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbf346d8d7b42689",
+    "type": "split",
+    "children": [
+      {
+        "id": "2067b769d9360258",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78f4dd08b85aaede",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d35f9393ff8f2e54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3a737925fa1beedb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43345179c358da3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "96db0e921d1e964b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "261b04dee65e53f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "448b03b4c7e2ad55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "30bbb58027531667",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "559d2f09581b1c55",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b990020e94d6789f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "c3c771b62085e78d",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian42-brat:BRAT": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "78f4dd08b85aaede",
+  "lastOpenFiles": [
+    "Rhinelab/总结任务/每日学习/目录.md",
+    "Rhinelab/总结任务/目录.md",
+    "Rhinelab/总结任务/阶段复盘/目录.md",
+    "PRTS_helloworld/2026-05-28 知识总结.md",
+    "PRTS_helloworld/Git项目工作流程与用量消耗.md",
+    "PRTS_helloworld/Git 项目工作内容总结.md",
+    "PRTS_helloworld/codex（弃用）.md",
+    "PRTS_helloworld/codex-bosidian 关联.md",
+    "PRTS_helloworld/2026-05-28 Windows Codex 连接手机 ChatGPT 远程控制记录.md",
+    "PRTS_helloworld/Codexmaxxing - 内容总结.md",
+    "Rhinelab/未归类/待拆分/目录.md",
+    "Rhinelab/未归类/临时资料/目录.md",
+    "Rhinelab/未归类/待判断/目录.md",
+    "Rhinelab/总结任务/视频总结/目录.md",
+    "Rhinelab/雪雉/自动化设备/目录.md",
+    "Rhinelab/雪雉/控制系统/目录.md",
+    "Rhinelab/雪雉/机械设计/目录.md",
+    "Rhinelab/雪雉/机械原理/目录.md",
+    "Rhinelab/麦哲伦/区域地理/目录.md",
+    "Rhinelab/麦哲伦/地图与GIS/目录.md",
+    "Rhinelab/麦哲伦/人文地理/目录.md",
+    "Rhinelab/麦哲伦/自然地理/目录.md",
+    "Rhinelab/艾雅法拉/地质图判读/目录.md",
+    "Rhinelab/艾雅法拉/地貌地层/目录.md",
+    "Rhinelab/艾雅法拉/构造地质/目录.md",
+    "Rhinelab/艾雅法拉/矿物岩石/目录.md",
+    "Rhinelab/未归类/待拆分",
+    "Rhinelab/未归类/临时资料",
+    "Rhinelab/未归类/待判断",
+    "Rhinelab/总结任务/阶段复盘",
+    "Rhinelab/总结任务/每日学习",
+    "Rhinelab/总结任务/视频总结",
+    "Rhinelab/雪雉/自动化设备",
+    "Rhinelab/雪雉/控制系统",
+    "Rhinelab/雪雉/机械设计",
+    "Rhinelab/雪雉/机械原理",
+    "current-desktop-screenshot.png"
+  ]
+}

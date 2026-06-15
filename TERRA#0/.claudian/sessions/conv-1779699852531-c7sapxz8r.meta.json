@@ -1,0 +1,25 @@
+{
+  "id": "conv-1779699852531-c7sapxz8r",
+  "providerId": "codex",
+  "title": "总结今天的项目内容，简述工作流程",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1779699852545,
+  "updatedAt": 1779700625906,
+  "lastResponseAt": 1779700625906,
+  "sessionId": "019e5e60-acdd-7e03-bb19-9be1e78f4b09",
+  "providerState": {
+    "threadId": "019e5e60-acdd-7e03-bb19-9be1e78f4b09",
+    "sessionFilePath": "C:\\Users\\admin\\.codex\\sessions\\2026\\05\\25\\rollout-2026-05-25T17-04-14-019e5e60-acdd-7e03-bb19-9be1e78f4b09.jsonl",
+    "transcriptRootPath": "C:\\Users\\admin\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 29828,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28544,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 29828,
+    "percentage": 12,
+    "model": "gpt-5.5"
+  }
+}

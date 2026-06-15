@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>提醒</title>
+  <style>
+    :root {
+      color-scheme: light;
+      font-family: "Microsoft YaHei", "PingFang SC", "Noto Sans CJK SC", sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+    }
+
+    body {
+      display: grid;
+      place-items: center;
+      overflow: hidden;
+      background:
+        radial-gradient(circle at 20% 18%, rgba(255, 255, 255, 0.42), transparent 26rem),
+        linear-gradient(135deg, #fff200 0%, #ff7a00 48%, #f0002f 100%);
+      color: #080808;
+    }
+
+    main {
+      width: min(94vw, 1400px);
+      padding: clamp(24px, 5vw, 72px);
+      text-align: center;
+      border: clamp(8px, 1vw, 16px) solid #080808;
+      background: rgba(255, 255, 255, 0.9);
+      box-shadow: 0 28px 70px rgba(0, 0, 0, 0.35);
+    }
+
+    .label {
+      margin: 0 0 clamp(18px, 3vw, 36px);
+      font-size: clamp(28px, 4vw, 64px);
+      font-weight: 900;
+      letter-spacing: 0;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(72px, 14vw, 190px);
+      line-height: 1.08;
+      font-weight: 900;
+      letter-spacing: 0;
+      text-wrap: balance;
+    }
+  </style>
+</head>
+<body>
+  <main aria-label="醒目提醒">
+    <p class="label">醒目提醒</p>
+    <h1>帮我带上光学书</h1>
+  </main>
+</body>
+</html>
