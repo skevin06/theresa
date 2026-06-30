@@ -31,6 +31,18 @@ $$
 }
 $$
 
+半高半宽：
+
+$$
+\boxed{
+\mathrm{HWHM}
+=
+\frac{\mathrm{FWHM}}{2}
+=
+\frac{\lambda_{\mathrm{right}}-\lambda_{\mathrm{left}}}{2}
+}
+$$
+
 ## 半高条件
 若中心波长 $\lambda^\*$ 满足：
 
